@@ -1,0 +1,11 @@
+﻿  src.cpp
+D:\Code\C\ZUC\ZUC.h(309,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C\ZUC\ZUC.h(361,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C\ZUC\compare.h(24,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C\ZUC\compare.h(25,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  5 of 21 functions (23.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ZUC.vcxproj -> D:\Code\C\ZUC\x64\Release\ZUC.exe

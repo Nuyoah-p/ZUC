@@ -1,0 +1,6 @@
+﻿  src.cpp
+D:\Code\C\ZUC\ZUC.h(309,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C\ZUC\ZUC.h(361,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\C\ZUC\compare.h(24,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C\ZUC\compare.h(25,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ZUC.vcxproj -> D:\Code\C\ZUC\x64\Debug\ZUC.exe
